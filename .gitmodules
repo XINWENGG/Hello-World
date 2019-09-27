@@ -1,0 +1,3 @@
+[submodule "GGDB"]
+	path = GGDB
+	url = https://github.com/XINWENGG/GGDB.git
